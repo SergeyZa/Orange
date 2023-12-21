@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeTracker.Server", "EmployeeTracker\EmployeeTracker.Server\EmployeeTracker.Server.csproj", "{D798A2E5-F3E4-43C0-B5C4-D19617413501}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "employeetracker.client", "EmployeeTracker\employeetracker.client\employeetracker.client.esproj", "{3801F8B2-D4B4-40F4-AA88-4754913BBACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D798A2E5-F3E4-43C0-B5C4-D19617413501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D798A2E5-F3E4-43C0-B5C4-D19617413501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D798A2E5-F3E4-43C0-B5C4-D19617413501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D798A2E5-F3E4-43C0-B5C4-D19617413501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3801F8B2-D4B4-40F4-AA88-4754913BBACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3801F8B2-D4B4-40F4-AA88-4754913BBACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3801F8B2-D4B4-40F4-AA88-4754913BBACD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3801F8B2-D4B4-40F4-AA88-4754913BBACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3801F8B2-D4B4-40F4-AA88-4754913BBACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3801F8B2-D4B4-40F4-AA88-4754913BBACD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B81B695C-5587-4209-A8A3-B21BDCC67E71}
+	EndGlobalSection
+EndGlobal
